@@ -1,5 +1,5 @@
 import { Toaster } from 'react-hot-toast';
-import AppRoutes from './routes.jsx';
+import AppRoutes from './routes';
 
 function App() {
   return (
